@@ -1,3 +1,3 @@
 # How to write like Ivo Andric
 
-My attempt to emulate Ivo Andric with GRU network.
+My attempt to emulate Ivo Andric with a GRU network.
